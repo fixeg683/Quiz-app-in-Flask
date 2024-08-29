@@ -45,8 +45,6 @@ flask run
 4. Create your own questions and quizzes or answer existing ones.
 5. Track your progress and see how your knowledge expands over time.
 
-## Author
-- Dev-Bittu
 
 ### Contact With Us
   - [GitHub](https://github.com/Dev-Bittu "Dev-Bittu")
